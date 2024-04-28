@@ -1,0 +1,132 @@
+nav{
+    width: 98vw;
+    height: 8vh;
+    background: wheat;
+    text-decoration: none;
+  }
+  .logo{
+      font-size: 28px;
+      color: black;
+      text-decoration: none;
+      font-weight: 500;
+      padding-left: 10px;
+      padding-top: 400px;
+  }
+  .contact {
+      float: right;
+      text-decoration: none;
+      height: 5vh;
+      width: 90px;
+      border: 2px solid orange;
+      padding-top: 20px ;
+      background-color: orange;
+      padding-left: 5px;
+      }
+  .col-1 {
+    float: left;
+    width: 40%;
+    margin-left: 20px;
+    line-height: 35px;
+  }
+  span {
+    color: green;
+  }
+  button {
+    height: 50px;
+    width: 150px;
+    background-color: rgb(39, 39, 187);
+    color: white;
+  }
+  .right {
+    float: right;
+    width: 40%;
+    margin-right: 100px;
+    width: 557px;
+    height: 557px;
+    flex-shrink: 0;
+  }
+  .truse{
+      margin-top: 580px;
+      text-align: center;
+  }
+  #image img{
+    margin-left: 30px;
+    
+  }
+  #image{
+    margin-left: 200px;
+  }
+  #aboutus p{
+    color: orange;
+    margin-left: 100px;
+  }
+  #aboutus h2{
+    margin-left: 100px;
+  }
+  .box{
+      border: 2px solid rgb(19, 17, 101);
+      background-color: rgb(19, 17, 101);
+      color: white;
+      height: 150px;
+      width: 300px;
+      margin-left: 1000px;
+      position: relative;
+      bottom: 130px;
+  }
+  #whatwedo{
+    position: relative;
+    bottom: 100px;
+  }
+  
+  #whatwedo h5{
+    color: orange;
+    font-size: 18px;
+    margin-left: 200px;
+  
+  }
+  #whatwedo h2{
+    margin-left: 200px;
+  }
+  #whatwedo p{
+    float: right;
+    position: relative;
+    bottom: 100px;
+    height: 100px;
+    width: 400px;
+    right: 300px;
+  }
+  #container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-left: 200px;
+    position: relative;
+    bottom: 150px;
+    
+  }
+  #container div{
+    margin-right: 35px;
+  }
+  .learnmore{
+    background-color: rgb(103, 219, 103);
+    border-radius: 30px;
+  }
+  #hundred{
+    display: flex;
+    margin-left: 200px;
+    border: 1px solid rgb(78, 73, 73);
+    width: 70%;
+    padding-left: 100px;
+    border-radius: 19px;
+  }
+  #hundred div{
+    margin-right: 200px;
+  }
+  
+  
+  
+  
+  
+  
+  
